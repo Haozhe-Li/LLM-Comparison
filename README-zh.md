@@ -46,20 +46,11 @@ openai_client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 ![output3](output3.png)
 
-````
-Model: llama3-70b-8192
-Average time: 1.4226796483993531
-Fail rate: 0.0
-Overall query: 358776
-Model: gpt-3.5-turbo-0125
-Average time: 3.4280353021621703
-Fail rate: 0.0
-Overall query: 358776
-Model: gpt-4o-2024-05-13
-Average time: 4.238370051383972
-Fail rate: 0.0
-Overall query: 358776
-````
+| Model              | Average time       | Fail rate | Overall query |
+| ------------------ | ------------------ | --------- | ------------- |
+| llama3-70b-8192    | 1.4226796483993531 | 0.0       | 358776        |
+| gpt-3.5-turbo-0125 | 3.4280353021621703 | 0.0       | 358776        |
+| gpt-4o-2024-05-13  | 4.238370051383972  | 0.0       | 358776        |
 
 
 

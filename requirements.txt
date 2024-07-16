@@ -1,0 +1,5 @@
+groq
+openai
+numpy
+matplotlib
+scipy

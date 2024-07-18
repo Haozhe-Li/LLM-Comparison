@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 .DS_Store
 logs.json
+
+stt_testing_data/

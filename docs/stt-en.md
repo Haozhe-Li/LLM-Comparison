@@ -1,6 +1,6 @@
 # STT model crosswalk whisper-large-v3 | whisper-1
 
-[🇨🇳简体中文](sst-zh.md)
+[🇨🇳简体中文](stt-zh.md)
 
 In this paper, we briefly compare the two models in terms of average processing time, failure rate, and the difference between query length and processing time growth.
 

@@ -1,4 +1,4 @@
-# LLM comparison
+# LLM comparison (Github Pages)
 
 In this repo we will compare and discuss through different large language model. Here is the results:
 

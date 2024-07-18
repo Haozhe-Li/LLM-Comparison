@@ -5,6 +5,11 @@ import time
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import linregress
+from pydub import AudioSegment
+
+def get_duration(filename):
+    audio = AudioSegment.from_file(filename)
+    return audio.duration_seconds
 
 
 def chat_completions(
@@ -67,7 +72,9 @@ def plot_model_comparison(results):
     model_colors = {
         'llama3-70b-8192': 'blue',
         'gpt-3.5-turbo-0125': 'green',
-        'gpt-4o-2024-05-13': 'orange'
+        'gpt-4o-2024-05-13': 'orange',
+        'whisper-large-v3': 'red',
+        'whisper-1': 'purple'
     }
     
     # first graph: average time comparison
@@ -149,6 +156,42 @@ def non_concurrent_test(testing_messages: list, testing_client, testing_model: s
     result["overall_query"] = overall_query
     result["query_len_vs_time"] = query_len_vs_time
     return result
+
+def stt_test(testing_files, testing_client, testing_model):
+    query_len_vs_time = {}
+    overall_time = 0
+    overall_query = 0
+    success = 0
+    fail = 0
+    for testing_file in testing_files:
+        with open(testing_file, "rb") as file:
+            start_time = time.time()
+            transcription = testing_client.audio.transcriptions.create(
+            file=(testing_file, file.read()),
+            model=testing_model,
+            )
+            end_time = time.time()
+            time_taken = end_time - start_time
+            if len(transcription.text) == 0:
+                fail += 1
+                continue
+            else:
+                success += 1
+                overall_time += time_taken
+                overall_query += get_duration(testing_file)
+                query_len_vs_time[get_duration(testing_file)] = [time_taken]
+
+    avg_time = overall_time / success
+    result = {}
+    result["model"] = testing_model
+    result["avg_time"] = avg_time
+    result["success"] = success
+    result["fail"] = fail
+    result["overall_query"] = overall_query
+    result["query_len_vs_time"] = query_len_vs_time
+    return result
+            
+
 
 
 

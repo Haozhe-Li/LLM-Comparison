@@ -3,3 +3,4 @@ openai
 numpy
 matplotlib
 scipy
+pydub

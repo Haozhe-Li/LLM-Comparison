@@ -1,0 +1,228 @@
+This is a test sentence. this is a test sentence
+测试文本。 测 试 文 本
+これはテストです。 これは テ スト です
+The quick brown fox jumps over the lazy dog. the quick brown fox jumps over the lazy dog
+今天天气很好。 今天 天 氣 很好
+昨日の天気はとても良かったです。 き い の ち ん き ゅ え と て う ま かった り
+Artificial intelligence is transforming industries. artificial intelligence is transforming industries
+机器学习是人工智能的一个分支。 极 其 学 习 是 人 工 智 能 的 一个 分 支
+機械学習は人工知能の一分野です。 機 械 学 習 は 人 工 知 能 の 一 分 野 です
+Language models like GPT-4 are very powerful. language models like gpt-4 are very powerful
+Test number: 10, stop to prevent rate limit
+人类已经踏上了火星。 人 類 已經 踏 上 了 火 星
+人類は既に火星に足を踏み入れています。 人 類 は す で に 火 星 に 足 を 踏 み 入 れて います 。
+I have a dream that one day this nation will rise up and live out the true meaning of its creed. i have a dream that one day this nation will rise up and live out the true meaning of its creed
+明天我们去爬山吧。 明 天 我们 去 爬 山 吧
+明日は山登りに行こう。 明 日 は 山 盛 り に 行 こう
+The history of the world is the history of great men. the history of the world is the history of great men
+这个项目的进展非常顺利。 这个 项 目 的 进 展 非常 顺 利
+このプロジェクトの進捗は非常に順調です。 この プ ロ ジ ェ ク ト の 進 捗 は 非常 に 順 調 です
+In a hole in the ground there lived a hobbit. in a hole in the ground there lived a hobbit
+我们可以通过学习变得更好。 我们 可以 通 过 学 习 变 得 更 好 。
+Test number: 20, stop to prevent rate limit
+学ぶことによって私たちは良くなります。 学 ぶ こと に よ って 私 た ちは 良 く な ります
+The greatest glory in living lies not in never falling, but in rising every time we fall. the greatest glory in living lies not in never falling but in rising every time we fall
+在追求梦想的道路上，我们不应轻言放弃。 在 追 求 夢 想 的 道 路 上 我們 不 應 輕 言 放 棄
+夢を追い求める道のりでは、簡単に諦めるべきではありません。 夢 を 追 い 求 め る 道 の り では 、 簡 単 に 諦 め る べ き では あり ません 。
+To be, or not to be, that is the question. to be or not to be that is the question
+每个人都有自己的梦想。 每 個人 都有 自己 的 夢 想
+誰もが自分の夢を持っています。 誰 も が 自 分 の 夢 を 持 って います
+Success is not final, failure is not fatal: It is the courage to continue that counts. success is not final failure is not fatal it is the courage to continue that counts
+人生は短い、だから夢を追いかけるべきです。 人 生 は 短 い だ から 夢 を 追 い か ける べ き です
+生活是一场冒险，要敢于尝试新事物。 生活 是 一 场 冒 险 要 敢 于 尝 试 新 事 物 。
+Test number: 30, stop to prevent rate limit
+Some are born great, some achieve greatness, and some have greatness thrust upon them. some are born great some achieve greatness and some have greatness thrust upon them
+时间是最宝贵的财富。 时间 是 最 宝 贵 的 财 富
+時間は最も貴重な財産です。 時間 は 最 も 貴 重 な 財 産 です
+The only thing we have to fear is fear itself. the only thing we have to fear is fear itself
+为了更美好的明天，我们必须努力奋斗。 為 了 更 美 好的 明 天 我們 必 須 努 力 奮 鬥
+より良い明日のために、私たちは懸命に働かなければなりません。 よ り 良 い 明 日 の ため に 私 た ちは 懸 命 に 働 かな けれ ば な り ません
+Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. four score and seven years ago our fathers brought forth on this continent a new nation conceived in liberty and dedicated to the proposition that all men are created equal
+好奇心是知识的起点。 好 奇 心 是 知 识 的 起 点
+好奇心は知識の始まりです。 好 奇 心 は 知 識 の 始 まり です
+It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness. it was the best of times it was the worst of times it was the age of wisdom it was the age of foolishness
+Test number: 40, stop to prevent rate limit
+成功的道路充满挑战，但每一步都值得。 成 功 的 道 路 充 滿 挑 戰 但 每 一 步 都 值 得
+成功への道は挑戦に満ちていますが、一歩一歩が価値があります。 成 功 へ の 道 は 挑 戦 に 満 ち て います が 、 一 歩 一 歩 が 価 値 が あります 。
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Test number: 50, stop to prevent rate limit
+ 
+Finished testing whisper, waiting for 1 second...
+This is a test sentence. this is a test sentence
+测试文本。 sashiwun bin
+これはテストです。 
+The quick brown fox jumps over the lazy dog. the quick brown fox jumps over the lazy dog
+今天天气很好。 天 天 气 很 好
+昨日の天気はとても良かったです。 の ち ん き え と て も わかっ た り
+Artificial intelligence is transforming industries. artificial intelligence is transforming industries
+机器学习是人工智能的一个分支。 及 其 学 习 实 施 人 工 智 能 的 一 个 分 值
+機械学習は人工知能の一分野です。 機械 学 習 は 人工 知 能 の 一 分 野 です。
+Language models like GPT-4 are very powerful. language models like g p t four are very powerful
+Test number: 10, stop to prevent rate limit
+人类已经踏上了火星。 人 类 已 经 插 上 了 火 星
+人類は既に火星に足を踏み入れています。 人類 は す で に 火 星 に 足 を 踏 み 入れ て い ます
+I have a dream that one day this nation will rise up and live out the true meaning of its creed. i have a dream that one day this nation will rise up and live out the true meaning of its creed
+明天我们去爬山吧。 明 天 我 们 去 爬 山 吧
+明日は山登りに行こう。 明日 は 山 盛り に 行 こう
+The history of the world is the history of great men. the history of the world is the history of great men
+这个项目的进展非常顺利。 个 项 目 的 进 展 非 常 顺 利
+このプロジェクトの進捗は非常に順調です。 この プロジェクト の 進 捗 は 非常 に 順 調 です
+In a hole in the ground there lived a hobbit. in a hole in the ground there lived a hobbit
+我们可以通过学习变得更好。 我 们 可 以 通 过 学 习 变 得 更 好
+Test number: 20, stop to prevent rate limit
+学ぶことによって私たちは良くなります。 学ぶ こと に よっ て 私 た ち は 良く なり ます 。
+The greatest glory in living lies not in never falling, but in rising every time we fall. the greatest glory in living lies not in never falling but in rising every time we fall
+在追求梦想的道路上，我们不应轻言放弃。 在 追 求 夢 想 的 道 路 上 我 们 不 应 轻 言 放 弃
+夢を追い求める道のりでは、簡単に諦めるべきではありません。 夢 を 追い 求め る 道 の り で は 簡単 に 諦 める べ き で は ありません 。
+To be, or not to be, that is the question. to be or not to be that is the question
+每个人都有自己的梦想。 每 个 人 都 有 自 己 的 夢 想
+誰もが自分の夢を持っています。 誰 も が 自 分 の 夢 を 持っ て い ます 。
+Success is not final, failure is not fatal: It is the courage to continue that counts. success is not final failure is not fatal it is the courage to continue that counts
+人生は短い、だから夢を追いかけるべきです。 人生 は 短 い 。だから 夢 を 追い かける べ き です。
+生活是一场冒险，要敢于尝试新事物。 生 活 是 一 场 冒 险 要 敢 于 尝 试 新 事 物
+Test number: 30, stop to prevent rate limit
+Some are born great, some achieve greatness, and some have greatness thrust upon them. some are born great some achieve greatness and some have greatness thrust upon them
+时间是最宝贵的财富。 时 间 是 最 宝 贵 的 财 富
+時間は最も貴重な財産です。 時間 は 最 も 貴重 な 財 産 です。
+The only thing we have to fear is fear itself. the only thing we have to fear is fear itself
+为了更美好的明天，我们必须努力奋斗。 为 了 更 美 好 的 明 天 我 们 必 须 努 力 奋 斗
+より良い明日のために、私たちは懸命に働かなければなりません。 
+Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. four score and seven years ago our fathers brought forth on this continent a new nation conceived in liberty and dedicated to the proposition that all men are created equal
+好奇心是知识的起点。 好 奇 心 是 知 识 的 起 点
+好奇心は知識の始まりです。 好 奇 心 は 知 識 の 始 まり です。
+It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness. it was the best of times it was the worst of times it was the age of wisdom it was the age of foolishness
+Test number: 40, stop to prevent rate limit
+成功的道路充满挑战，但每一步都值得。 成 功 的 道 路 充 满 挑 战 但 每 一 步 都 值 得
+成功への道は挑戦に満ちていますが、一歩一歩が価値があります。 成功 へ の 道 は 挑 戦 に 満 ち て い ます が 、一歩 一 歩 が 価 値 が あります
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Test number: 50, stop to prevent rate limit
+ 
+Finished testing nova-2-general, waiting for 1 second...
+This is a test sentence.  This is a test sentence.
+测试文本。 测试文本
+これはテストです。 これはテストです。
+The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.
+今天天气很好。 今天天气很好
+昨日の天気はとても良かったです。 機能人気はとても良かったです。
+Artificial intelligence is transforming industries.  Artificial intelligence is transforming industries.
+机器学习是人工智能的一个分支。 机器学习实际是人工智能的一个分支,
+機械学習は人工知能の一分野です。 機械学習は人工知能の一分野です。
+Language models like GPT-4 are very powerful.  Language models like GPT-4 are very powerful.
+Test number: 10, stop to prevent rate limit
+人类已经踏上了火星。 人类已经踏上了火星
+人類は既に火星に足を踏み入れています。 人類はすでに火星に足を踏み入れています。
+I have a dream that one day this nation will rise up and live out the true meaning of its creed.  I have a dream that one day this nation will rise up and live out the true meaning of its creed.
+明天我们去爬山吧。 明天我们去爬山吧!
+明日は山登りに行こう。 明日は山回りに行こう。
+The history of the world is the history of great men.  The history of the world is the history of great men.
+这个项目的进展非常顺利。 这个项目的进展非常顺利。
+このプロジェクトの進捗は非常に順調です。 このプロジェクトの進捗は非常に順調です。
+In a hole in the ground there lived a hobbit.  In a hole in the ground there lived a hobbit.
+我们可以通过学习变得更好。 我们可以通过学习变得更好。
+Test number: 20, stop to prevent rate limit
+学ぶことによって私たちは良くなります。 学ぶことによって私たちは良くなります。
+The greatest glory in living lies not in never falling, but in rising every time we fall.  The greatest glory in living lies not in never falling, but in rising every time we fall.
+在追求梦想的道路上，我们不应轻言放弃。 在追求梦想的道路上,我们不应轻言放弃。
+夢を追い求める道のりでは、簡単に諦めるべきではありません。 夢を追い求める道のりでは、簡単に諦めるべきではありません。
+To be, or not to be, that is the question.  To be or not to be, that is the question.
+每个人都有自己的梦想。 每个人都有自己的梦想
+誰もが自分の夢を持っています。 誰もが自分の夢を持っています。
+Success is not final, failure is not fatal: It is the courage to continue that counts.  Success is not final. Failure is not fatal. It is the courage to continue that counts.
+人生は短い、だから夢を追いかけるべきです。 人生は短い。だから夢を追いかけるべきです。
+生活是一场冒险，要敢于尝试新事物。 生活是一场冒险,要敢于尝试新事物。
+Test number: 30, stop to prevent rate limit
+Some are born great, some achieve greatness, and some have greatness thrust upon them.  Some are born great, some achieve greatness, and some have greatness thrust upon them.
+时间是最宝贵的财富。 时间是最宝贵的财富。
+時間は最も貴重な財産です。 時間は最も貴重な財産です。
+The only thing we have to fear is fear itself.  The only thing we have to fear is fear itself.
+为了更美好的明天，我们必须努力奋斗。 为了更美好的明天,我们必须努力奋斗。
+より良い明日のために、私たちは懸命に働かなければなりません。 より良い明日のために、私たちは懸命に働かなければなりません。
+Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.  Four score and seven years ago, our fathers brought forth on this continent a new nation conceived in liberty and dedicated to the proposition that all men are created equal.
+好奇心是知识的起点。 好奇心是知识的起点。
+好奇心は知識の始まりです。 好奇心は知識の始まりです。
+It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness.  It was the best of times. It was the worst of times. It was the age of wisdom. It was the age of foolishness.
+Test number: 40, stop to prevent rate limit
+成功的道路充满挑战，但每一步都值得。 成功的道路充满挑战,但每一步都值得。
+成功への道は挑戦に満ちていますが、一歩一歩が価値があります。 成功への道は挑戦に満ちていますが、一歩一歩が価値があります。
+  Hello! I'm going to show you how to make a delicious
+  Hello! I'm a student at the University of California, and I'm here to talk about the importance of the
+  Kjell Kronström
+  Hello! I'm going to show you how to make a delicious
+  Hello! I'm a student at the University of California, and I'm here to talk about the importance of the
+  Kjell Kronström
+  Hello! I'm going to show you how to make a delicious
+  Hello! I'm a student at the University of California, and I'm here to talk about the importance of the
+Test number: 50, stop to prevent rate limit
+  Kjell Kronström
+Finished testing whisper-large-v3, waiting for 1 second...
+This is a test sentence. This is a test sentence.
+测试文本。 測試文本
+これはテストです。 これはテストです。
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+今天天气很好。 今天天氣很好
+昨日の天気はとても良かったです。 Kī nō tīngi ae tō te mā kātere.
+Artificial intelligence is transforming industries. Artificial intelligence is transforming industries.
+机器学习是人工智能的一个分支。 机器学习是人工智能的一个分支
+機械学習は人工知能の一分野です。 機械学習は人工知能の一分野です。
+Language models like GPT-4 are very powerful. Language models like GPT-4 are very powerful.
+Test number: 10, stop to prevent rate limit
+人类已经踏上了火星。 人類已經踏上了火星
+人類は既に火星に足を踏み入れています。 人類はすでに火星に足を踏み入れています。
+I have a dream that one day this nation will rise up and live out the true meaning of its creed. I have a dream that one day this nation will rise up and live out the true meaning of its creed.
+明天我们去爬山吧。 明天我们去爬山吧
+明日は山登りに行こう。 明日は山回りに行こう
+The history of the world is the history of great men. The history of the world is the history of great men.
+这个项目的进展非常顺利。 这个项目的进展非常顺利
+このプロジェクトの進捗は非常に順調です。 このプロジェクトの進捗は非常に順調です。
+In a hole in the ground there lived a hobbit. In a hole in the ground there lived a hobbit.
+我们可以通过学习变得更好。 我们可以通过学习变得更好
+Test number: 20, stop to prevent rate limit
+学ぶことによって私たちは良くなります。 学ぶことによって私たちは良くなります。
+The greatest glory in living lies not in never falling, but in rising every time we fall. The greatest glory in living lies not in never falling but in rising every time we fall.
+在追求梦想的道路上，我们不应轻言放弃。 在追求梦想的道路上,我们不应轻言放弃
+夢を追い求める道のりでは、簡単に諦めるべきではありません。 夢を追い求める道のりでは、簡単に諦めるべきではありません。
+To be, or not to be, that is the question. To be or not to be, that is the question.
+每个人都有自己的梦想。 每個人都有自己的夢想
+誰もが自分の夢を持っています。 誰もが自分の夢を持っています。
+Success is not final, failure is not fatal: It is the courage to continue that counts. Success is not final, failure is not fatal. It is the courage to continue that counts.
+人生は短い、だから夢を追いかけるべきです。 人生は短い。だから夢を追いかけるべきです。
+生活是一场冒险，要敢于尝试新事物。 生活是一场冒险,要敢于尝试新事物。
+Test number: 30, stop to prevent rate limit
+Some are born great, some achieve greatness, and some have greatness thrust upon them. Some are born great, some achieve greatness, and some have greatness thrust upon them.
+时间是最宝贵的财富。 时间是最宝贵的财富
+時間は最も貴重な財産です。 時間は最も貴重な財産です。
+The only thing we have to fear is fear itself. The only thing we have to fear is fear itself.
+为了更美好的明天，我们必须努力奋斗。 為了更美好的明天,我們必須努力奮鬥。
+より良い明日のために、私たちは懸命に働かなければなりません。 より良い明日のために、私たちは懸命に働かなければなりません。
+Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Four score and seven years ago, our fathers brought forth on this continent a new nation conceived in liberty and dedicated to the proposition that all men are created equal.
+好奇心是知识的起点。 好奇心是知识的起点
+好奇心は知識の始まりです。 好奇心は知識の始まりです。
+It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness. It was the best of times, it was the worst of times. It was the age of wisdom, it was the age of foolishness.
+Test number: 40, stop to prevent rate limit
+成功的道路充满挑战，但每一步都值得。 成功的道路充满挑战 但每一步都值得
+成功への道は挑戦に満ちていますが、一歩一歩が価値があります。 成功への道は挑戦に満ちていますが、一歩一歩が価値があります。
+ 本日はご覧いただきありがとうございます。良い1日を!
+ ご視聴ありがとうございました
+ トゥルッ ヽ╮◕‿‿◕╭ ¡↵有人 corporation! ¯、¯¯ ¯、¯¯
+ 本日はご覧いただきありがとうございます。良い1日を!
+ ご視聴ありがとうございました
+ 如果您感觉到这些食物有点辣,请把其放在冰箱冷却。 如果您感觉到这些食物有点辣,请把其放在冰箱冷却。 如果您感觉到这些食物有点辣,请把其放在冰箱冷却。
+ 本日はご覧いただきありがとうございます。良い1日を!
+ ご視聴ありがとうございました
+Test number: 50, stop to prevent rate limit
+ 几乎整理好後放入冰箱冷却 0.5 cm x 0.4 cm 😆
+Finished testing whisper-1, waiting for 1 second...

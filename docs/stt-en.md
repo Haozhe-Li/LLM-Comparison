@@ -1,4 +1,4 @@
-# STT model crosswalk whisper-large-v3 | whisper-1
+# STT Comparison whisper-large-v3 | whisper-1
 
 [🇨🇳简体中文](stt-zh.md)
 

@@ -1,4 +1,4 @@
-# LLM comparison
+# LLM comparison - Groq LLaMa 3, GPT 3.5 Turbo, GPT 4o
 
 [🇨🇳简体中文](llama3-openai-zh.md)
 

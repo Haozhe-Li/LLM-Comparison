@@ -1,4 +1,4 @@
-# STT Model Crosswalk V2
+# STT Comparison V2
 
 [🇨🇳简体中文](sttv2-zh.md)
 

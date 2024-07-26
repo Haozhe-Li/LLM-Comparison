@@ -1,4 +1,4 @@
-# 大模型横评
+# 大模型横评 - Groq LLaMa 3, GPT 3.5 Turbo, GPT 4o
 
 [🌍English Global](llama3-openai-en.md)
 
